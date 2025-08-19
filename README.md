@@ -4,7 +4,7 @@ Projeto Integrador Sistema Orientado a Objetos
 ### Cadastro de Pessoa Física
 <img width="936" height="552" alt="image" src="https://github.com/user-attachments/assets/7dd3c6f4-8455-44da-93f4-0d3b4b903d25" />
 
-### Cadastro de Pessoa Juríica
+### Cadastro de Pessoa Jurídica
 <img width="950" height="562" alt="image" src="https://github.com/user-attachments/assets/92d4c669-3097-4f65-9a4a-4b47e56ea151" />
 
 ### Cadastro de Aluno
