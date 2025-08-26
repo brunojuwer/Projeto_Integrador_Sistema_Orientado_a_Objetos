@@ -36,8 +36,14 @@ Projeto Integrador Sistema Orientado a Objetos
 
 ### Cenários Alternativos:
 - A1: CNPJ já cadastrado → sistema bloqueia duplicidade.
+<img width="922" height="552" alt="image" src="https://github.com/user-attachments/assets/0cec9456-4cc3-4ae5-b3a8-eaa485560b42" />
+
+<br>
+<br>
+<br>
 
 - A2: Dados inválidos → sistema pede correção.
+<img width="922" height="552" alt="image" src="https://github.com/user-attachments/assets/1eb50350-0eda-457f-98f2-8b98cc998d71" />
 
 
 ## Cadastro de Aluno
