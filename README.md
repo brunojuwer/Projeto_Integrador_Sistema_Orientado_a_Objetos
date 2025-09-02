@@ -119,6 +119,6 @@ Projeto Integrador Sistema Orientado a Objetos
 - A2: Selecionar algum serviço para atrelar ao fornecedor.
 <img width="1026" height="609" alt="image" src="https://github.com/user-attachments/assets/0c16b1de-2184-4a37-8f0d-47c29b0c9a10" />
 
-
+ 
 
 
